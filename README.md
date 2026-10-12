@@ -2,6 +2,10 @@
 
 React frontend for the vehicle service booking system, built with Vite.
 
+## Live demo
+
+[Open the deployed frontend](https://vehicle-service-booking-frontend-gold.vercel.app/)
+
 ## Requirements
 
 - Node.js and npm
